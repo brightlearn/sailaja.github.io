@@ -1,45 +1,43 @@
 # sailaja.github.io
 
-Welcome to my data portfolio!
-This space showcases my end-to-end work across Python, Business Intelligence tools, SQL, and other.
+#  Sailaja's Data Portfolio
+
+Welcome to my data portfolio!  
+This space showcases my end-to-end work across **Python**, **Business Intelligence tools**, and **SQL**.  
 Each section below links to a dedicated page with detailed project documentation, datasets (when allowed), code, insights, and dashboards.
 
-🚀 Portfolio Overview
-🔹 Python Projects
-Machine learning, data analysis, automation, APIs, and more.
-👉 View Python Projects
+---
 
-📊 BI Tools (Power BI / Tableau / Looker Studio)
-Interactive dashboards, data modeling, and business insights.
-👉 View BI Projects
+## 🚀 Portfolio Overview
 
-🗄️ SQL Projects
-Query optimization, analytical SQL, stored procedures, and case studies on real-world datasets.
-👉 View SQL Projects
+### 🔹 Python Projects
+Machine learning, data analysis, automation, APIs, and more.  
+👉 **[View Python Projects](./python/README.md)**
 
-🗄️ Other Projects
-AI web application and chatbot
-👉 View Other Projects
+---
 
-📁 Repository Structure
-/
-│── README.md                 # Portfolio home page (this file)
-│── python/
-│     └── README.md           # Python project list + links
-│── bi-tools/
-│     └── README.md           # BI dashboards + descriptions
-│── sql/
-      └── README.md           # SQL projects + queries
-│── Other/
-      └── README.md           # Chatbot and AI      
+### 📊 BI Tools (Power BI / Tableau / Looker Studio)
+Interactive dashboards, data modeling, and business insights.  
+👉 **[View BI Projects](./bi-tools/README.md)**
 
-📬 Contact
+---
 
-Email: sailaja31@gmail.com
+### 🗄️ SQL Projects
+Query optimization, analytical SQL, stored procedures, and case studies on real-world datasets.  
+👉 **[View SQL Projects](./sql/README.md)**
 
-LinkedIn: www.linkedin.com/in/sailaja-datla-51a543295
+---
 
-GitHub: https://github.com/brightlearn/sailaja.github.io
+### 🗄️ Other Projects
+Chatbot and AI Projects  
+👉 **[View Other Projects](./sql/README.md)**
 
-⭐ Support
-If you like this portfolio, please consider giving the repo a star — it helps others discover the work!
+---
+
+## 📬 Contact
+
+- **Email:** sailaja31@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/sailaja-datla-51a543295  
+- **GitHub:** https://github.com/brightlearn/sailaja.github.io
+
+
