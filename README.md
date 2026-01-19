@@ -1,4 +1,5 @@
-# 👩‍💻 Sailaja Datla  
+<!-- # 👩‍💻 Sailaja Datla  -->
+
 ### Data Analyst | Python | SQL | Power BI | Tableau
 
 📍 *Portfolio of real-world data projects showcasing analytics, visualization, and problem-solving skills.*
