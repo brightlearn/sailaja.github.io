@@ -39,7 +39,7 @@ Each section below links to **detailed project pages** with:
 - Python automation scripts
 - API-based data extraction
 
-👉 **[View Python Projects](#)**
+👉 **[View Python Projects](./python/README.md)**
 
 ---
 
@@ -51,7 +51,7 @@ Each section below links to **detailed project pages** with:
 - Data modeling & DAX
 - Executive-ready reports
 
-👉 **[View BI Projects](#)**
+👉 **[View BI Projects](./bi-tools/README.md)**
 
 ---
 
@@ -62,8 +62,8 @@ Each section below links to **detailed project pages** with:
 - Window functions
 - Performance tuning
 - Real-world datasets & scenarios
-
-👉 **[View SQL Projects](#)**
+  
+👉 **[View SQL Projects](./sql/README.md)**
 
 ---
 
@@ -74,7 +74,7 @@ Each section below links to **detailed project pages** with:
 - AI-powered health & analytics tools
 - AWS & cloud-integrated projects
 
-👉 **[View Other Projects](#)**
+👉 **[View Other Projects](./other/README.md)**
 
 ---
 
