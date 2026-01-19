@@ -3,7 +3,7 @@
 
 📍 *Portfolio of real-world data projects showcasing analytics, visualization, and problem-solving skills.*
 
-🔗 **Live Portfolio:** [sailaja.github.io](https://sailaja.github.io)  
+🔗 **Live Portfolio:** [sailaja.github.io](https://brightlearn.github.io/sailaja.github.io)
 🔗 **GitHub:** [View on GitHub](https://github.com/sailaja)
 
 ---
@@ -84,7 +84,7 @@ Each section below links to **detailed project pages** with:
 `Python` · `SQL`
 
 **BI & Visualization:**  
-`Power BI` · `Tableau` · `Looker Studio`
+`Power BI` · `Tableau` 
 
 **Databases:**  
 `MySQL` · `PostgreSQL` · `SQL Server`
@@ -98,6 +98,6 @@ Each section below links to **detailed project pages** with:
 
 📧 **Email:** sailaja31@gmail.com  
 💼 **LinkedIn:** www.linkedin.com/in/sailaja-datla-51a543295  
-📊 **GitHub:** [[https://github.com/sailaja](https://github.com/sailaja)](https://github.com/brightlearn/sailaja.github.io)
+📊 **GitHub:** [sailaja.github.io](https://github.com/brightlearn/sailaja.github.io)
 
 ---
