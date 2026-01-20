@@ -4,8 +4,10 @@
 
 📍 *Portfolio of real-world data projects showcasing analytics, visualization, and problem-solving skills.*
 
+<!-- 
 🔗 **Live Portfolio:** [sailaja.github.io](https://brightlearn.github.io/sailaja.github.io)
 🔗 **GitHub:** [View on GitHub](https://github.com/sailaja)
+-->
 
 ---
 
